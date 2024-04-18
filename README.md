@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ I obtained my Full Stack Web Developer certificate at the Boolean academy and acquired various front-end and back-end skills.<br>✨ I'm a passionate web developer fueled by curiosity and a drive for continuous learning.<br>🎯 Goals: learning React</p>
+<p align="left">✨ I obtained my Full Stack Web Developer certificate at the Boolean academy and acquired various front-end and back-end skills.<br>✨ I'm a passionate web developer fueled by curiosity and a drive for continuous learning.<br>🎯 Goals: learning React.</p>
 
 ###
 
