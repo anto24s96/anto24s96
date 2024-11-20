@@ -20,14 +20,16 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />  
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  /> 
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node js logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 </div>
 
 ###
