@@ -6,11 +6,9 @@
 
 ###
 
-<p align="left">✨ **Certified Full Stack Web Developer** from **Boolean Academy**, with hands-on experience in **React**, **Node.js**, and **Express**, gained through the development of real-world full-stack projects.
-
-✨ A passionate developer committed to continuous learning, always seeking new challenges and opportunities for growth.
-
-🎯 **Current Focus:** Advancing React skills to build user-friendly, high-performance applications.
+<p align="left">✨ ✨ Certified Full Stack Web Developer from Boolean Academy, with hands-on experience in React, Node.js, and Express, gained through the development of real-world full-stack projects.  
+✨ A passionate developer committed to continuous learning, always seeking new challenges and opportunities for growth.  
+🎯 Current Focus: Advancing React skills to build user-friendly, high-performance applications.
 </p>
 
 ###
